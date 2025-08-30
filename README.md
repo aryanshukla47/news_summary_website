@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-[git clone https://github.com/aryanshukla47/news-summarization-nlp.git](https://github.com/aryanshukla47/news_summary_website/tree/main)
+git clone [https://github.com/aryanshukla47/news-summarization-nlp.git](https://github.com/aryanshukla47/news_summary_website/tree/main)
 cd news-summarization-nlp
 
 
